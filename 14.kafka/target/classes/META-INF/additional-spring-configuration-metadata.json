@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "xxx.kafka.adress",
+    "type": "java.lang.String",
+    "description": "A description for 'xxx.kafka.adress'"
+  },
+  {
+    "name": "xxx.kafka.topic",
+    "type": "java.lang.String",
+    "description": "A description for 'xxx.kafka.topic'"
+  },
+  {
+    "name": "xxx.kafka.group.id",
+    "type": "java.lang.String",
+    "description": "A description for 'xxx.kafka.group.id'"
+  }
+]}
